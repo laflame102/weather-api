@@ -6,7 +6,7 @@
 
    ```bash
    git clone https://github.com/laflame102/weather-api.git
-   cd
+   cd weather-api
    ```
 
 2. **Install dependencies**
